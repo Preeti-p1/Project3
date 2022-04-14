@@ -1,0 +1,252 @@
+.material-icons {
+    color: white;
+    height: 25px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: red;
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+}
+
+.h1 {
+    margin-bottom: 2px;
+}
+
+.back {
+    color: black;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.container {
+    width: 240px;
+    height: 240px;
+    color: red;
+    border: 1px solid black;
+    box-shadow: 8px 8px gray;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.item1 {
+    padding-top: 15px;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.item {
+    text-align: center;
+}
+
+.input {
+    color: black;
+    text-align: center;
+    padding-left: 3px;
+}
+
+.bottom {
+    padding-left: 190px;
+    margin-top: 50px;
+}
+
+.rid {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.flex {
+    height: 40px;
+    width: 140px;
+    padding-top: 1px;
+    margin: auto;
+}
+
+.hr1 {
+    width: 130px;
+}
+
+.hr2 {
+    width: 130px;
+
+}
+.h {
+    font-size: 50px;
+    font-weight: bolder;
+ 
+
+}
+
+.ho {
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.plus {position: relative;
+    margin-left: 300px;
+    bottom: 40px;
+}
+.container1 {
+    width: 250px;
+    height: 50px;
+    color:white;
+    border: 1px solid black;
+    box-shadow: 8px 8px gray;
+    margin: 20px;
+    border-radius: 4px;
+    text-align: center;
+
+}
+
+.container2 { 
+    width: 250px;
+    height: 50px;
+    color:aliceblue;
+    border: 1px solid black;
+    box-shadow: 8px 8px gray;
+    border-radius: 4px;
+    margin: 20px;
+text-align: center;
+}
+.container3 {
+    width: 250px;
+    height: 50px;
+    color:white;
+    border: 1px solid black;
+    box-shadow: 8px 8px gray;
+    border-radius: 4px;
+margin:20px;
+}
+
+.container4 {
+    width: 250px;
+    height: 50px;
+    color:white;
+    border: 1px solid black;
+    box-shadow: 8px 8px gray;
+    border-radius: 4px;
+margin: 20px;
+}
+@media (min-width: 400px) {
+    .hr2 {
+        position: relative;
+        padding-left: 520px;
+        bottom: 10px;
+    }
+
+    .flex {
+        width: 700px;
+        height: 50px;
+        justify-content: space-between;
+        bottom: 40px;
+    }
+
+    .h1 {
+        position: relative;
+        top: 40px;
+    }
+
+    .container {
+        position: relative;
+        bottom: 60px;
+        height: 250px;
+        width: 210px;
+    }
+
+    .icon {
+        position: relative;
+        right: 160px;
+        bottom: 55px;
+    }
+
+    .bottom {
+        padding-left: 145px;
+    }
+
+    .back {
+        display: none;
+    }
+
+    .grid-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 100px;
+    }
+
+   .container1 {
+        width: 210px;
+        height: 240px;
+        color: red;
+        border: 1px solid black;
+        box-shadow: 8px 8px gray;
+
+    }
+
+    .container2 { 
+        width: 210px;
+        height: 240px;
+        color: red;
+        border: 1px solid black;
+        box-shadow: 8px 8px gray;
+        border-radius: 4px;
+
+    }
+
+    .container3 {
+        width: 210px;
+        height: 240px;
+        color: red;
+        border: 1px solid black;
+        box-shadow: 8px 8px gray;
+        border-radius: 4px;
+
+    }
+
+    .container4 {
+        width: 210px;
+        height: 240px;
+        color: red;
+        border: 1px solid black;
+        box-shadow: 8px 8px gray;
+        border-radius: 4px;
+
+    }
+
+    .itema {
+        text-align: center;
+        padding-top: 12px;
+    }
+
+    .h {
+        font-size: 50px;
+        font-weight: bolder;
+        
+
+    }
+
+    .ho {
+        font-size: 50px;
+        font-weight: lighter;
+    }
+
+    .plus {
+        margin-left: 300px;
+    }
+
+    .upper {
+        margin-top: 60px;
+    }
+.add{
+    color: red;
+}
+}
